@@ -1,7 +1,7 @@
 
 ## tasknest-backend
 
->[Nest](https://github.com/nestjs/nest) application for managing task. Uses PostgreSQL as a database and TypeORM for mapping.
+>[Nest](https://github.com/nestjs/nest) application for managing tasks. Uses PostgreSQL as a database and TypeORM for mapping.
 
 ## Installation
 
